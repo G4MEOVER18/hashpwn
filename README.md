@@ -280,3 +280,7 @@ Wenn dir dieses Tool nützlich ist, freue ich mich über eine kleine Bitcoin-Spe
 
 MIT License — Copyright (c) 2026 G4MEOVER18  
 Siehe [LICENSE](LICENSE)
+
+## Preview
+
+![CLI Preview](docs/screenshots/preview.png)
