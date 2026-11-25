@@ -1,5 +1,7 @@
 # hashpwn
 
+[![CI](https://github.com/G4MEOVER18/hashpwn/actions/workflows/python-lint.yml/badge.svg)](https://github.com/G4MEOVER18/hashpwn/actions/workflows/python-lint.yml)
+
 **Hash-Identifikations- und Cracking-Tool für Security-Researcher**
 
 Reines Python-Stdlib-Tool, inspiriert von:
